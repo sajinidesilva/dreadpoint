@@ -12,6 +12,10 @@ Dreadpoint is a multiplayer shooting video game in a virtual world where VR tech
 - 100 % web technologies
 - VR headset is optional
 
+### Team Members
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
