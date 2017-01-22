@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## About Dreadpoint
 
-You can use the [editor on GitHub](https://github.com/sajinidesilva/dreadpoint/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Dreadpoint is a multiplayer shooting video game in a virtual world. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
