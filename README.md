@@ -8,6 +8,10 @@ Dreadpoint is a multiplayer shooting video game in a virtual world where VR tech
 
 ### Features
 
+- No software installations
+- 100 % web technologies
+- VR headset is optional
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
