@@ -13,7 +13,7 @@ Dreadpoint is a multiplayer shooting video game in a virtual world where VR tech
 - VR headset is optional
 
 ### Team Members
-
+![Image of Pasindu](https://udnisap.js.org/smart-desktop/images/pasindu-profile.jpg)
 ![Image of Sajini](https://udnisap.js.org/smart-desktop/images/sajini-profile.jpg)
 
 
