@@ -12,7 +12,9 @@ Dreadpoint is a multiplayer shooting video game in a virtual world where VR tech
 - 100% web technologies
 - No Servers / All P2P
 - Cardboard VR is supported. We love you even if you dont have a VR headset.
-- 
+- Easy to start with even for beginners. 
+- People inside VR and people outside VR can work together. No discrimation at all. 
+
 
 ### Team Members
 ![Image of Pasindu](https://udnisap.js.org/smart-desktop/images/pasindu-profile.jpg)
