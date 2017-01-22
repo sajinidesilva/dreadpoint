@@ -2,7 +2,7 @@
 
 Dreadpoint is a multiplayer shooting video game in a virtual world where VR technology is supported. In this game shooters  are moving at a constant speed around the war area. While moving around the game space shooters can shoot to other players or change the direction of their motion to avoid obstacles or escape from other shooters. The object of this game is to be the last surviver and win the game.  
 
-### Markdown
+### Setup instructions
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
