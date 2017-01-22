@@ -4,7 +4,7 @@ Dreadpoint is a multiplayer shooting video game in a virtual world where VR tech
 
 ### Try it now
 
-[Link](https://playcanv.as/p/JtL2iqIH/)
+[https://playcanv.as/p/JtL2iqIH/](https://playcanv.as/p/JtL2iqIH/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
