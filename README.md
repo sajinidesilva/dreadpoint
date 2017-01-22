@@ -14,7 +14,7 @@ Dreadpoint is a multiplayer shooting video game in a virtual world where VR tech
 
 ### Team Members
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Sajini](https://udnisap.js.org/smart-desktop/images/sajini-profile.jpg)
 
 
 
